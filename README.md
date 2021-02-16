@@ -7,4 +7,6 @@ Thanks to this mobile application that emerged at the end of 2.3 days, the owner
 ## Screenshots
 ![pages](https://github.com/hakanbakacak/MedicalShareMobile/blob/master/assets/pages.png)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jkPLZepu2FY/0.jpg)](https://www.youtube.com/watch?v=jkPLZepu2FY)
+[![youtube video](https://img.youtube.com/vi/jkPLZepu2FY/0.jpg)](https://www.youtube.com/watch?v=jkPLZepu2FY)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jkPLZepu2FY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
