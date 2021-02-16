@@ -5,8 +5,7 @@ First of all, I decided to create scenarios for the application and the pages to
 Thanks to this mobile application that emerged at the end of 2.3 days, the owner of the idea was able to convey his idea to the other party in a much better way, and it is open to application development and can choose the option to use this prototype as its main application in the future, as the API is prepared in accordance with the firebase integration also In this limited time, in addition to this mobile application, I also developed a web application with Flutter-Web for the project
 
 ## Screenshots
-![pages](https://github.com/hakanbakacak/MedicalShareMobile/blob/master/assets/pages.png)
+![pages](https://github.com/hakanbakacak/MedicalShareMobile/blob/master/assets/pages.png)  
 
+## Demo Video  
 [![youtube video](https://img.youtube.com/vi/jkPLZepu2FY/0.jpg)](https://www.youtube.com/watch?v=jkPLZepu2FY)
-
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/E5Jg4Wm9b7o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
