@@ -5,11 +5,6 @@ First of all, I decided to create scenarios for the application and the pages to
 Thanks to this mobile application that emerged at the end of 2.3 days, the owner of the idea was able to convey his idea to the other party in a much better way, and it is open to application development and can choose the option to use this prototype as its main application in the future, as the API is prepared in accordance with the firebase integration also In this limited time, in addition to this mobile application, I also developed a web application with Flutter-Web for the project
 
 ## Screenshots
-![Wallet](https://www.upwork.com/att/download/portfolio/persons/uid/1288233381097492480/profile/projects/files/1303264046369030144)
-![HomePage](https://www.upwork.com/att/download/portfolio/persons/uid/1288233381097492480/profile/projects/files/1303264064200183808)
-![TransactionHistory](https://www.upwork.com/att/download/portfolio/persons/uid/1288233381097492480/profile/projects/files/1303264082126344192)
-![Notifications](https://www.upwork.com/att/download/portfolio/persons/uid/1288233381097492480/profile/projects/files/1303264097694728192)  
+![pages](https://github.com/hakanbakacak/MedicalShareMobile/blob/master/assets/pages.png)
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/jkPLZepu2FY" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jkPLZepu2FY/0.jpg)](https://www.youtube.com/watch?v=jkPLZepu2FY)
